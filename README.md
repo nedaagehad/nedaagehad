@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center"> <h1>Welcome! I'm Nedaa 👋</h1> <p><strong>Frontend Developer</strong> | Creating Modern, Responsive, and Scalable Web Applications</p> </div>
 
-<!--
-**nedaagehad/nedaagehad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a dedicated frontend developer with a strong focus on building accessible
+responsive, and visually engaging web applications. My passion lies in transforming ideas into user-centered digital solutions by leveraging modern frontend technologies and best practices.
+
+---
+
+## 🌟 Key Highlights
+
+* 🏦 Industry Experience:Frontend developer in the banking sector.
+
+* ✨ Clean Code Advocate: Writing maintainable, modular, and efficient code to deliver seamless user experiences.
+
+* 📖 Continuous Learner: Always exploring the latest tools, frameworks, and design principles to enhance my skill set.
+
+---
+## Technical Expertise ⚙️
+
+### 💻 Core Skills
+
+* Frontend Development: HTML5, CSS3, JavaScript (ES6+), TypeScript
+* Frameworks & Libraries: React.js, Material-UI (MUI), Sass
+* Responsive Design: Media queries, CSS Grid, Flexbox
+* Testing: Jest
+
+### 🔧 Tools & Workflow
+
+* Version Control: Git/GitHub
+* Development Environment: VSCode
+* Collaboration: Agile methodologies, team-driven development
+
+---
+
+## Current Goals 🎯
+
+* 💡 Advancing expertise in React.js and TypeScript to build scalable applications.
+* 🔍 Enhancing knowledge of frontend testing frameworks like Jest.
+* 🛠️ Building a portfolio of high-quality, real-world projects.
