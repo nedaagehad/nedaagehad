@@ -1,13 +1,13 @@
 <div align="center"> <h1>Welcome! I'm Nedaa 👋</h1> <p><strong>Frontend Developer</strong> | Creating Modern, Responsive, and Scalable Web Applications</p> </div>
 
----
+<br>
 
 ## About Me 🖥️
 
 I'm a dedicated frontend developer with a strong focus on building accessible
 responsive, and visually engaging web applications. My passion lies in transforming ideas into user-centered digital solutions by leveraging modern frontend technologies and best practices.
 
----
+<br>
 
 ## 🌟 Key Highlights
 
@@ -17,7 +17,8 @@ responsive, and visually engaging web applications. My passion lies in transform
 
 * 📖 Continuous Learner: Always exploring the latest tools, frameworks, and design principles to enhance my skill set.
 
----
+<br>
+
 ## Technical Expertise ⚙️
 
 ### 💻 Core Skills
@@ -33,7 +34,7 @@ responsive, and visually engaging web applications. My passion lies in transform
 * Development Environment: VSCode
 * Collaboration: Agile methodologies, team-driven development
 
----
+<br>
 
 ## Current Goals 🎯
 
