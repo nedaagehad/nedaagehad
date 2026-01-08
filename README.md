@@ -1,12 +1,5 @@
 <div align="center">
   <h1>Hi, I'm Nedaa 👋</h1>
-  <p><strong>Software Testing Engineer</strong> | Quality Engineering • API Testing • Test Automation</p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h1>Hi, I'm Nedaa 👋</h1>
   <p><strong>Software Testing Engineer</strong> | Testing & Development • API Quality • Automation</p>
 </div>
 
