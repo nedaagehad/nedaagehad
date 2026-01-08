@@ -1,43 +1,82 @@
-<div align="center"> <h1>Welcome! I'm Nedaa 👋</h1> <p><strong>Frontend Developer</strong> | Creating Modern, Responsive, and Scalable Web Applications</p> </div>
+<div align="center">
+  <h1>Hi, I'm Nedaa 👋</h1>
+  <p><strong>Software Testing Engineer</strong> | Quality Engineering • API Testing • Test Automation</p>
+</div>
 
-<br>
+<br/>
 
-## About Me 🖥️
+<div align="center">
+  <h1>Hi, I'm Nedaa 👋</h1>
+  <p><strong>Software Testing Engineer</strong> | Testing & Development • API Quality • Automation</p>
+</div>
 
-I'm a dedicated frontend developer with a strong focus on building accessible
-responsive, and visually engaging web applications. My passion lies in transforming ideas into user-centered digital solutions by leveraging modern frontend technologies and best practices.
+<br/>
 
-<br>
+## About Me
 
-## 🌟 Key Highlights
+I’m a Software Testing Engineer with a solid frontend development background and growing backend fundamentals. I work at the intersection of **quality and development**, applying engineering principles to both testing and code.
 
-* 🏦 Industry Experience:Frontend developer in the banking sector.
+My current focus is split deliberately: **delivering reliable test coverage today** while **continuously strengthening my development skills** to become a more well-rounded engineer.
 
-* ✨ Clean Code Advocate: Writing maintainable, modular, and efficient code to deliver seamless user experiences.
+<br/>
 
-* 📖 Continuous Learner: Always exploring the latest tools, frameworks, and design principles to enhance my skill set.
+## Key Highlights
 
-<br>
+- 🏦 **Banking Domain Experience**  
+  Worked on banking-related applications where defects have real financial impact. This required precise test cases, careful regression testing, and close coordination with developers to avoid breaking critical user flows.
 
-## Technical Expertise ⚙️
+- 🧪 **Quality Engineering Mindset**  
+  I don’t rely on happy-path testing. I actively look for failure points by designing edge cases, negative scenarios, and validations that reflect how real users and systems actually break.
 
-### 💻 Core Skills
+- 💻 **Developer Perspective**  
+  Frontend development experience and active backend fundamentals study to better understand system internals and design decisions.
 
-* Frontend Development: HTML5, CSS3, JavaScript (ES6+), TypeScript
-* Frameworks & Libraries: React.js, Material-UI (MUI), Sass
-* Responsive Design: Media queries, CSS Grid, Flexbox
-* Testing: Jest
+- 🔁 **Automation-Driven**  
+  Practical experience building and maintaining automated tests for APIs and application logic.
 
-### 🔧 Tools & Workflow
+<br/>
 
-* Version Control: Git/GitHub
-* Development Environment: VSCode
-* Collaboration: Agile methodologies, team-driven development
+## Technical Expertise
 
-<br>
+### Testing & Quality
 
-## Current Goals 🎯
+- **Manual Testing**: Test case design, exploratory testing, regression testing
+- **API Testing**: REST APIs, request/response validation, error handling (Postman)
+- **Automation**: Jest, Supertest, Playwright, Katalon
+- **Concepts**: SDLC, STLC, defect lifecycle, boundary & negative testing
 
-* 💡 Advancing expertise in React.js and TypeScript to build scalable applications.
-* 🔍 Enhancing knowledge of frontend testing frameworks like Jest.
-* 🛠️ Building a portfolio of high-quality, real-world projects.
+### Development
+
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Material UI (MUI)
+- **Backend (foundations & in progress)**:
+  - Node.js
+  - Express.js
+  - HTTP & REST principles
+  - Basic API design concepts
+  - Request lifecycle & data validation
+
+### Tools & Workflow
+
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions / GitLab CI (automated test execution)
+- **Agile**: Scrum, sprint-based development, cross-functional collaboration
+- **Tooling**: VS Code, Postman, Katalon
+
+<br/>
+
+## Current Focus
+
+- Balancing **test automation** and **development practice** intentionally
+- Improving API test coverage and CI pipeline integration
+- Studying **backend fundamentals** to strengthen system-level understanding
+- Writing cleaner, more maintainable code — both in tests and application logic
+
+<br/>
+
+## What You’ll Find Here
+
+- Test automation projects and experiments  
+- Frontend and backend learning projects  
+- API testing utilities and examples  
+- Practical, readable code with a focus on correctness and structure
